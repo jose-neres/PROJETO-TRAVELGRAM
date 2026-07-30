@@ -8,7 +8,7 @@ O **Travelgram** é um projeto criado para aprimorar conhecimentos em desenvolvi
 
 Durante o desenvolvimento foram aplicados conceitos essenciais de HTML e CSS, priorizando organização do código, responsividade e uma boa experiência visual.
 ## 📸 Preview
-![Imagem do projeto](https://prnt.sc/Tyh6IQj6_tUx)
+![Imagem do projeto](<img width="857" height="902" alt="Image" src="https://github.com/user-attachments/assets/4523d9f5-533b-42ce-ab03-b3527efd6401" />)
 
 ## ✨ Funcionalidades
 
